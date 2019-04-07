@@ -1,4 +1,4 @@
-Ce tutoriel à pour but de vous expliquez comment réaliser un executable avec Cx_Freeze. Ici l'executable que j'essaie de mettre en place est le fichier 2016_Extraction_Name.py. Le fichier Setup.py est le ficherqui permet de mettre en place cet Executable.
+Ce tutoriel à pour but de vous expliquez comment réaliser un executable avec Cx_Freeze. Ici l'executable que j'essaie de mettre en place est le fichier 2016_Extraction_Name.py. Le fichier Setup.py est le ficher de consolidation.
 
 OS : Windows
 
